@@ -9,7 +9,7 @@ package br.edu.ifpb.praticas.git.exercicio.git;
  * Class representing a payment method
  * @author Pedro Arthur
  */
-public class PaymentMethod {
+public abstract class PaymentMethod {
     
     private boolean confirmed;
     private int transactionCode;
