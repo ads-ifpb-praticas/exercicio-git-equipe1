@@ -23,3 +23,5 @@ As equipes devem clonar este repositório e compartilhar na rede por meio da má
 Ao final, cada equipe deve submeter um `pull request` para o repositório central e **para um repositório da equipe** na organização.
 
 [Diagrama de classes]: http://i.imgur.com/Ar9WLA5.png
+
+Teste
