@@ -1,5 +1,5 @@
 # Exercício prático de GIT
-Exemplo prático a ser trabalhado na aula prática de Git. A turma deve ser dividida em 2 equipes, sendo cada uma subdividida em pares. Se algum aluno sobrar na formação das duplas, deve se integrar a uma das duplas a sua escolha.
+Exemplo prático a ser trabalhado na aula prática de Git. A turma deve ser dividida em 2 equipes. Se algum aluno sobrar, deve se integrar a uma das duplas a sua escolha.
 
 A atividade consiste em implementar as classes descritas no diagrama de classes abaixo:
 
@@ -20,6 +20,6 @@ As equipes devem clonar este repositório e compartilhar na rede por meio da má
 - Convenção de nomenclatura para classes, métodos, atributos e pacotes (para este exemplo `br.edu.ifpb.praticas.git.`)
 - Documentação de todos os métodos, classes e construtores (mesmo os `gets` e `sets`)
 
-Ao final, cada equipe deve submeter um `pull request` para o repositório central.
+Ao final, cada equipe deve submeter um `pull request` para o repositório central e **para um repositório da equipe** na organização.
 
 [Diagrama de classes]: http://i.imgur.com/Ar9WLA5.png
